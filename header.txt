@@ -1,2 +1,2 @@
 some text for header
-changes from <feature>
+changes from <master>
